@@ -1,0 +1,44 @@
+create next auth in 5 minutes
+
+go to clerk.com
+
+login
+
+create a new project
+
+copy this env keys
+
+create a env file in the root
+
+paste the env keys here
+
+add the env file into git ignore so it wont get push
+
+install clerk
+
+wrap the entire app with clerk provider
+
+create middleware file in the root
+
+fill the middleware file with this
+
+go to home page and add userbutton
+
+create sign up files like this
+
+then create page tsx and then fill it with this codes
+
+do the same thing for the sign in
+
+then npm run dev
+
+
+go to ur browser
+
+
+by adding userbutton earlier u can either do managing ur acc
+
+
+or you can do signing out from ur acc
+
+and thats how... repeat
